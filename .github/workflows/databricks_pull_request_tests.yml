@@ -20,7 +20,7 @@ jobs:
         with:
           databricks-token: dapie2742844053bfcf468780e9a60dfdc5d-2
 
-          local-notebook-path: notebooks/run_unit_tests.py
+          local-notebook-path: notebooks/common/run_unit_tests.py
 
           existing-cluster-id: 0707-124639-n9m1ucye
 

@@ -1,4 +1,4 @@
 # demo-workspace
 This is the refrence workspace for WoW 
-![plot](https://github.com/diggibyte/best-notebooks/blob/restructure/img/dir_structure.png?raw=true)
+![structure](https://github.com/diggibyte/best-notebooks/blob/main/img/dir_structure.png?raw=true) { width: 200px; }
 

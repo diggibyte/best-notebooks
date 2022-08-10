@@ -12,7 +12,7 @@ def raw_input_df() -> pd.DataFrame:
   """
   Create a basic version of the input dataset for testing, including NaNs.
   """
-  return pd.read_csv('tests/testdata.csv')
+  return pd.read_csv('tests/c_analysis/testdata.csv')
 
 @pytest.fixture
 def colnames_df() -> pd.DataFrame:
